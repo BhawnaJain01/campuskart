@@ -9,7 +9,7 @@ required product by directly contacting the seller
 
 
 
-Click [here](https://campus-kart.vercel.app/) to go to my Quora profile. 
+[Demo Link](https://campus-kart.vercel.app/) 
 
 ### Features
 1. User Management 
