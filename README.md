@@ -1,15 +1,17 @@
 # Overview of the project
 
-Developed a portal where alumni can
-connect to their college / university , and
-juniors can reach out to the alumni for
-career guidance and much more.
+This has been built to improve the
+demand-supply chain in our college .
+
+The students can purchase any of their
+required product by directly contacting the seller
+(kind of e-commerce website).
+
 
 ### Features
-1. Events Managment 
-2. Chat Room using socket.io
-3. Video Chat using webRTC
-4. Profile Management
+1. User Management 
+2. Search products category wise
+
 
 
 ## To Start The Project
@@ -33,19 +35,17 @@ Launches the project and runs on the brower.
 ## Product Listing
 ![image](https://user-images.githubusercontent.com/97356776/209427399-b67bc7bd-af0c-4c2e-87de-ad26338ac180.png)
 
-## Alumni Portal
-![image](https://user-images.githubusercontent.com/97356776/209426718-e442a03f-6d24-439e-8212-6e9e16107af7.png)
+## Product Details
+![image](https://user-images.githubusercontent.com/97356776/209427435-3440828e-6c71-4e07-85eb-6eda8db2ab91.png)
 
-## Events Page
-![image](https://user-images.githubusercontent.com/97356776/209426848-f6ec1d1b-9ce8-40e4-8a66-456f50faea72.png)
+## Wishlist
+![image](https://user-images.githubusercontent.com/97356776/209427455-f49f9e54-2e92-429c-864c-7dd5ea396b7e.png)
 
-## College Portal
-![image](https://user-images.githubusercontent.com/97356776/209426893-4f01aabe-5fa2-42f3-89e9-bf85fd4795d8.png)
+## Sell Your Product 
+![image](https://user-images.githubusercontent.com/97356776/209427480-708b0e35-d259-4a10-b502-b61faa6e9bee.png)
 
-## Alumni List
-![image](https://user-images.githubusercontent.com/97356776/209426913-237755e3-c347-4e59-8dc4-13efac238c72.png)
+## Contact Us
+![image](https://user-images.githubusercontent.com/97356776/209427589-7ffdbdb5-a282-4a4e-8456-2e3972c45794.png)
 
-## Event Scheduling 
-![image](https://user-images.githubusercontent.com/97356776/209426924-a89054c6-e296-45f8-aa8e-5a5b3cef6192.png)
 
 
