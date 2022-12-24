@@ -28,11 +28,10 @@ Launches the project and runs on the brower.
 # Project Interfaces
 
 ## Landing Page
-![image](https://user-images.githubusercontent.com/97356776/209427358-028476b5-4c25-462a-9f73-ee7ab95145f7.png)
+![image](https://user-images.githubusercontent.com/97356776/209427376-bb190212-908d-44f6-a5e6-9f1994aa3cdc.png)
 
-
-## Login Interface
-![image](https://user-images.githubusercontent.com/97356776/209426528-ab526d1d-2f9c-4099-8b36-ae4c12d15330.png)
+## Product Listing
+![image](https://user-images.githubusercontent.com/97356776/209427399-b67bc7bd-af0c-4c2e-87de-ad26338ac180.png)
 
 ## Alumni Portal
 ![image](https://user-images.githubusercontent.com/97356776/209426718-e442a03f-6d24-439e-8212-6e9e16107af7.png)
