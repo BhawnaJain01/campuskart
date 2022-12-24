@@ -7,6 +7,7 @@ The students can purchase any of their
 required product by directly contacting the seller
 (kind of e-commerce website).
 
+### `Demo Link`(https://campus-kart.vercel.app/)
 
 ### Features
 1. User Management 
