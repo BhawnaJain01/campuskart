@@ -11,6 +11,7 @@ required product by directly contacting the seller
 ### Features
 1. User Management 
 2. Search products category wise
+3. Uploading products using multer 
 
 
 
