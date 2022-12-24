@@ -28,7 +28,8 @@ Launches the project and runs on the brower.
 # Project Interfaces
 
 ## Landing Page
-![image](https://user-images.githubusercontent.com/97356776/209426514-f8e2d51a-60ff-4345-b463-f15020975ab6.png)
+![image](https://user-images.githubusercontent.com/97356776/209427358-028476b5-4c25-462a-9f73-ee7ab95145f7.png)
+
 
 ## Login Interface
 ![image](https://user-images.githubusercontent.com/97356776/209426528-ab526d1d-2f9c-4099-8b36-ae4c12d15330.png)
